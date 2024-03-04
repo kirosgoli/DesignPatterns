@@ -1,2 +1,2 @@
 # DesignPatterns
-All 
+All design patterns mostly in C#/VB.net 
